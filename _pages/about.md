@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: https://commodore-r-group.github.io/about
 ---
 
 Ipsum lorum
