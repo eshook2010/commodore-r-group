@@ -9,7 +9,7 @@ baseurl: '/'
 author:
   name: 'Commodore R Group'
   email: commodorgroup@gmail.com
-  twitter_username: commodorgroup@gmail.com
+  twitter_username: commodorgroup
   github_username:  Commodore-R-Group
 
 defaults:
