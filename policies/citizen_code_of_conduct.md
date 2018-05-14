@@ -6,7 +6,7 @@ A primary goal of the Vanderbilt University R Working Group is to be inclusive t
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in the R for Data Science Online Learning Community to help us create safe and positive experiences for everyone.
+We invite all those who participate in the Vanderbilt University R Working Group to help us create safe and positive experiences for everyone.
 
 ## 2. Open Source Data Science Citizenship
 
