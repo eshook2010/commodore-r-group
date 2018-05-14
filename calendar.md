@@ -3,6 +3,7 @@ layout: page
 title: Calendar
 permalink: /calendar
 ---
+{% capture md %}
 # Schedule of events
 | Date       | Topic           | Location  |
 | ------------- |:-------------:| -----:|
@@ -19,5 +20,7 @@ permalink: /calendar
 | 10/30/2018      | **Welcome to R/RStudio** | Room # |
 | 12/07/2018      | R For Data Science: Factors with forcats |   Room # |
 | 12/14/2018      | R For Data Science: Dates and Times with lubridate |   Room # |
+{% endcapture %}
+{{ md | markdownify }}
 
 <p style="text-align: center;"><iframe src="https://calendar.google.com/calendar/embed?src=jt7ghn51q2h77s0fmpeufk98c8%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></p> 
