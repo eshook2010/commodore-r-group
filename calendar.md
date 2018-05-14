@@ -4,7 +4,6 @@ title: Calendar
 permalink: /calendar
 ---
 
-<html>
 <head>
 <style>
 table {
@@ -35,18 +34,71 @@ tr:nth-child(even) {
     <th>Location</th>
   </tr>
   <tr>
-    <td><b>08/24/2018</b></td>
-    <td>Welcome to R/RStudio</td>
+    <td>08/24/2018</td>
+    <td><b>Welcome to R/RStudio</b></td>
     <td>Room #</td>
   </tr>
   <tr>
     <td>08/31/2018</td>
-    <td>R For Data Sciene: Data Visualization with ggplot2</td>
+    <td>R For Data Science: Data Visualization with ggplot2</td>
+    <td>Room #</td>
+  </tr>
+  <tr>
+    <td>09/07/2018</td>
+    <td>R For Data Science: Workflow: Basics & Data Transformation with dplyr </td>
+    <td>Room #</td>
+  </tr>
+  <tr>
+    <td>09/21/2018</td>
+    <td><b>Welcome to R/RStudio</b></td>
+    <td>Room #</td>
+  </tr>
+   <tr>
+    <td>09/28/2018</td>
+    <td>R For Data Science: Workflow: Scripts & Exploratory Data Analysis</td>
+    <td>Room #</td>
+  </tr>
+   <tr>
+    <td>10/05/2018</td>
+    <td>R For Data Science: Workflow: Projects & Tibbles with tibble</td>
+    <td>Room #</td>
+  </tr>
+   <tr>
+    <td>10/19/2018</td>
+    <td><b>Welcome to R/RStudio</b></td>
+    <td>Room #</td>
+  </tr>
+   <tr>
+    <td>10/26/2018</td>
+    <td>R For Data Science: Data Import with readr and Tidy Data with tidyr</td>
+    <td>Room #</td>
+  </tr>
+   <tr>
+    <td>11/02/2018</td>
+    <td>R For Data Science: Relational Data with dplyr</td>
+    <td>Room #</td>
+  </tr>
+   <tr>
+    <td>11/09/2018</td>
+    <td>R For Data Science: Strings with stringr</td>
+    <td>Room #</td>
+  </tr> <tr>
+    <td>11/30/2018</td>
+    <td><b>Welcome to R/RStudio</b></td>
+    <td>Room #</td>
+  </tr>
+   <tr>
+    <td>12/07/2018</td>
+    <td>R For Data Science: Factors with forcats</td>
+    <td>Room #</td>
+  </tr>
+   <tr>
+    <td>12/14/2018</td>
+    <td>R For Data Science: Dates and Times with lubridate</td>
     <td>Room #</td>
   </tr>
 </table>
 
 </body>
-</html>
 
 <p style="text-align: center;"><iframe src="https://calendar.google.com/calendar/embed?src=jt7ghn51q2h77s0fmpeufk98c8%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe></p> 
