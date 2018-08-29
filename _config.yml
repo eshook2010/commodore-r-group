@@ -1,8 +1,8 @@
 # Site settings
 title: Commodore R Group
 description: Welcome to Vanderbilt University Library's R working group.  
-url: 'https://heardlibrary.github.io'
-baseurl: /commodore-r-group'
+url: 'https://heardlibrary.github.io/linked-data/'
+baseurl: /
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
