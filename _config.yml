@@ -1,6 +1,6 @@
 # Site settings
 title: 'Commodore R Group'
-description: 'Welcome to Vanderbilt University Library's R working group.'
+description: "Welcome to Vanderbilt University Library's R working group."
 url: 'https://heardlibrary.github.io/commodore-r-group/'
 baseurl: /commodore-r-group
 # google_analytics: 'UA-XXXXXX-X'
